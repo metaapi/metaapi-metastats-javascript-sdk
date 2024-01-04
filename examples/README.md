@@ -1,11 +1,11 @@
 # MetaStats
 
-Examples of using MetaStats SDK with modern javascript UI libraries/frameworks and node.js have moved to [https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples).
+MetaStats SDK examples for modern javascript UI libraries/frameworks and node.js have moved to [https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples).
 
-__Examples links:__
+__Links to examples:__
 
-- [Node.JS](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples/node/meta-stats);
-- [Browser](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples/browser/meta-stats);
-- [Angular](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples/angular/angular-app/meta-stats);
-- [React](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples/react/react-app/meta-stats);
-- [Vue](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples/vue/vue-app/meta-stats).
+- [Node.JS](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples/node/metastats)
+- [Browser](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples/browser/metastats)
+- [Angular](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples/angular/app/metastats)
+- [React](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples/react/app/metastats)
+- [Vue](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples/vue/app/metastats)
