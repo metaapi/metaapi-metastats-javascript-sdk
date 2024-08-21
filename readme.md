@@ -83,6 +83,9 @@ console.log(await metaStats.getAccountTrades(accountId, '2020-01-01 00:00:00.000
 
 // retrieve MetaApi MetaTrader account open trades
 console.log(await metaStats.getAccountOpenTrades(accountId));
+
+// reset MetaApi MetaTrader account metrics
+console.log(await metaStats.resetMetrics(accountId));
 ```
 
 ## Quotas and rate limits
