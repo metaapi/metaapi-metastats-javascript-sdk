@@ -1,3 +1,6 @@
+4.1.1
+  - updated docs
+
 4.1.0
   - added `resetMetrics` API method
 

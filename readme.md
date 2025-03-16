@@ -21,9 +21,7 @@ The primary intended use of MetaStats API is creating trade monitoring applicati
 ## Pricing
 MetaStats is available to all MetaApi users without extra charges at this point.
 
-You pay a fee executing MetaTrader terminal on MetaApi cloud. See [https://metaapi.cloud/#pricing](https://metaapi.cloud/#pricing) for more details.
-
-MetaApi provides a free tier so that you can test our APIs without any charges.
+You pay a fee executing MetaTrader terminal on MetaApi cloud. See [https://metaapi.cloud/#pricing](https://metaapi.cloud/#pricing) for more details. In some cases a free tier access can be available.
 
 ## Frequently asked questions (FAQ)
 FAQ is located here: [http://metaapi.cloud/docs/metastats/faq/](http://metaapi.cloud/docs/metastats/faq/)
